@@ -1,0 +1,22 @@
+body {
+    background-color: #ffb0b0;
+    text-align: center;
+    align-content: center;
+}
+
+.ed {
+    color: red;
+}
+
+.hobby {
+    color: darkblue;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+#para {
+    color: darkblue;
+}
